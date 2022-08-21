@@ -1,0 +1,6 @@
+llax\main\debug\DebugDemo.class
+llax\main\varargs\VarargsDemo.class
+llax\main\warn\WarnDemo.class
+llax\main\appender\OwnAppender.class
+llax\main\LoggingJava.class
+llax\main\error\ErrorDemo.class
